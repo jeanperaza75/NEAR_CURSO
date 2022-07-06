@@ -1,4 +1,4 @@
-# Fundaion
+# Proyecto Fundación
 Repositorio de Proyecto Prototipo para una Fundación, ya que la misma mensualmente realiza un sorteo y para ello hace venta de Ticket.
 
 ## Contenido
